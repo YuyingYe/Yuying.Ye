@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+Hello and welcome to my website! I am an economics master student at Duke University. My research interest mainly focus on labor economics, financial economics and psychological economics.
 
-You can use the [editor on GitHub](https://github.com/YuyingYe/Yuying.Ye/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [CV](https://github.com/YuyingYe/Yuying.Ye/edit/master/https://github.com/YuyingYe/Yuying.Ye/blob/master/Resume_Yuying_Ye_Duke%202.pdf) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
