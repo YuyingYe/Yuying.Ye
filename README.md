@@ -1,6 +1,6 @@
 Hello and welcome to my website! I am an economics master student at Duke University. My research interest mainly focus on labor economics, financial economics and psychological economics.
 
-## [CV](https://github.com/YuyingYe/Yuying.Ye/edit/master/https://github.com/YuyingYe/Yuying.Ye/blob/master/Resume_Yuying_Ye_Duke%202.pdf) 
+## [CV](https://github.com/YuyingYe/Yuying.Ye/edit/master/https://github.com/YuyingYe/Yuying.Ye/blob/master/Resume_Yuying_Ye_Duke2.pdf) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
